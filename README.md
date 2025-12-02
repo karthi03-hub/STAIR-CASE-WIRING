@@ -1,55 +1,36 @@
-# STAIR-CASE-WIRING
-
+# -STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT
+# NAME: karthikeyan b k
+# Reg no: 212224080024
 AIM
-To control the status of the given lamp by using two – way switches.
+To study the operation of LVDT- Linear Variable Differential Transformer
+OBJECTIVE:
+1. To study the basic principle of LVDT.
+2. Study of signal conditioning circuit.
+3. Study of LVDT as transducer.
 
-
-APPARATUS REQUIRED:
-
-S.No Name of the apparatus Range / Type Quantity
-1 Incandescent Lamp 60W 1 No.
-2 Lamp Holder Pendent Type 1 No.
-3 SPDT Switch 230V,5A 2 Nos
-4 Wires 1/18” As per requirement
-5 P.V.C Pipe 1/4" As per requirement
-6 Wooden Board - 1 No.
-7 Round block - 1 No
-
-PROCEDURE
-
-• Place the accessories on the wiring board as per the circuit diagram.
-• Place the P.V.C pipe and insert two wires into the P.V.C pipe.
-• Take one wire connect one end to the phase side and other end to the middle
-point of SPDT switch 1
-• Upper point of SPDT switch 1 is connected to the lower point of SPDT
-switch2.
-• Lower point of SPDT 1 is connected to the upper point SPDT switch2.
-• Another wire taken through a P.V.C pipe and middle point of SPDT switch 2
-is connected to one end of the lamp holder.
-• Another end of lamp holder is connected to neutral line.
-• Screw the accessories on the board and switch on the supply.
-• Circuit is tested for all possible combination of switch positions
+Apparatus Required
+<img width="620" height="167" alt="image" src="https://github.com/user-attachments/assets/6fb40928-c719-4422-8968-c8c13cffcb7f" />
 
 Circuit Diagram:
-Direct Connection:
 
-<img width="619" height="314" alt="image" src="https://github.com/user-attachments/assets/adcbab25-2530-4251-99b8-3fd0829f298d" />
+<img width="584" height="418" alt="image" src="https://github.com/user-attachments/assets/2b7e3166-0b3e-49d0-84cf-8a8d64cb3c7a" />
 
-Tabulation 1:
+PROCEDURE:
+1. The trainer is switched and power supply is checked for +12V and -12Vwith the help
+of multi meter.
+2. The trainer is switched off and connections are made as per the patching diagram.
+3. The LVDT is connected in the kit through connector provided in the circuit.
+4. The displacement of LVDT is kept at one end by using screw guage.
+5. The trainer is switched on and the output DC voltage is measured using multimeter by
+connecting it across DC output + and – respectively.
+6. The displacement is varied with the help of screw gauge and the corresponding output
+voltages are noted down.
+7. The screw gauge is adjusted for maximum displacement and then stopped.
+8. A graph between displacement and output voltage is drawn.
 
-<img width="932" height="414" alt="image" src="https://github.com/user-attachments/assets/8412ec7e-2165-4d5e-bd5a-9126bae0bb94" />
+## TABULAR COLUMN
 
-
-Circuit Diagram:
-Cross Connection:
-
-<img width="617" height="308" alt="image" src="https://github.com/user-attachments/assets/cb78f403-981f-4287-ae31-999310d871dc" />
-
-Tabulation 2:
-<img width="880" height="347" alt="image" src="https://github.com/user-attachments/assets/bbbe3ef8-5117-463f-a038-ba71dc7f02f4" />
-
-
-
-Result: 
-
-The experimant was performed successfully.
+<img width="606" height="794" alt="image" src="https://github.com/user-attachments/assets/a633fe2d-8672-4e77-87ad-e15c8b9ade96" />
+## RESULT:
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/0384e702-8eac-4a24-ba93-54a93e7603c6" />
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/4b37e4e1-5b54-4687-ad7e-16dbc5336207" />
